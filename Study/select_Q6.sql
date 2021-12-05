@@ -5,4 +5,5 @@
 /////////////////////////////////////////////////////
 SELECT ANIMAL_ID,NAME, DATETIME
 FROM ANIMAL_INS
-ORDER BY NAME ASC, DATETIME DESC;
+ORDER BY NAME ASC, DATETIME DESC; 
+// 날짜 최근 : DESC , 날짜 옛날 : ASC

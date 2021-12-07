@@ -10,3 +10,4 @@ LIMIT 1;
 // LIMIT 구를 이용하여 상위 N개 행만 조회
 // LIMIT 0,1 : 위에서 0부터 1까지의 정보 추출
 // LIMIT 1: 위에서 1개의 정보 추출
+// ORDER BY DATETIME로 하면 날짜가 옛날 순으로 정렬
